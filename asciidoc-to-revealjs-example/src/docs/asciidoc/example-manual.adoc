@@ -72,7 +72,3 @@ imagesdir:: {imagesdir}
 .Custom
 project-version:: {project-version}
 sourcedir:: {sourcedir}
-endpoint-url:: {endpoint-url}
-
-
-
